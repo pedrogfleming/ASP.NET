@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorCrud_EF_CodeFirst
+build_property.RootNamespace = BlazorCrud_EF_CodeFirst
+build_property.ProjectDir = C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TheCodeCave_BooksWebApp\BlazorCrud_EF_CodeFirst\BlazorCrud_EF_CodeFirst\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TheCodeCave_BooksWebApp\BlazorCrud_EF_CodeFirst\BlazorCrud_EF_CodeFirst
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/BookDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0RlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/BookDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0RldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/BookList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-febh8tx44e
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e9rfffrsze
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/GL/.NET/ASP.NET/EntityFramerwork/TheCodeCave_BooksWebApp/BlazorCrud_EF_CodeFirst/BlazorCrud_EF_CodeFirst/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

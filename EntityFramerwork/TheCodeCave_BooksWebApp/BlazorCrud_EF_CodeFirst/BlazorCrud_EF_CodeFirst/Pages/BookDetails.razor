@@ -1,0 +1,52 @@
+﻿@*This directive is to access by url the page*@
+@page "/bookDetails"
+@page "/bookDetails/{id:int}"
+@inject IBookService BookService
+@*This is for moving between components*@
+@inject NavigationManager NavigationManager
+<h1>Book Details</h1>
+@*We binded the obj to the form*@
+<EditForm Model="@book">
+    <table class="table">
+        <tr>
+            <td>Title:</td>
+            <td><input class="form-control col-sm-4" type="text" @bind="book.Title" /></td>
+        </tr>
+        <tr>
+            <td>Author:</td>
+            <td><input class="form-control col-sm-4" type="text" @bind="book.Author" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" value="Save" @onclick="SaveBook"/>
+                <input type="button" value="Cancel" @onclick="Cancel" />
+            </td>
+        </tr>
+    </table>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    //Blazor allows the two ways binding
+    private Book book = new Book();
+
+    protected override async Task OnInitializedAsync()
+    {
+        //To show the info of the book when you need to update
+        if(id != 0)
+        {
+            book = await BookService.GetBookDetails(id);
+        }
+    }
+    protected async Task SaveBook()
+    {
+        await BookService.SaveBook(book);
+        //After the save of the book was done, we come back to root
+        NavigationManager.NavigateTo("/");
+    }
+    protected void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}

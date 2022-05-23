@@ -1,0 +1,5 @@
+Code Firts
+0) Create the script to create the table in the database using the model
+Add-Migration Initial
+1)Execute the script created previously
+Update-Database
