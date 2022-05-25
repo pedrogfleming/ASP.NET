@@ -6,6 +6,8 @@ C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\TangyWeb_Server.runtimeconfig.json
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\TangyWeb_Server.dll
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\TangyWeb_Server.pdb
+C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Tangy_Models.dll
+C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Tangy_Models.pdb
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.AssemblyReference.cache
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.AssemblyInfoInputs.cache
@@ -20,6 +22,7 @@ C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\scopedcss\bundle\TangyWeb_Server.styles.css
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\scopedcss\projectbundle\TangyWeb_Server.bundle.scp.css
+C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.CopyComplete
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.dll
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\refint\TangyWeb_Server.dll
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.pdb
