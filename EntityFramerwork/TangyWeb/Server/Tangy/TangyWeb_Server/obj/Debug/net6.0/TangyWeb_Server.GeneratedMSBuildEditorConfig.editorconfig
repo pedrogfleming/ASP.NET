@@ -19,6 +19,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/Pages/Category/CategoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/Pages/Category/CategoryUpsert.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlVcHNlcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -75,8 +83,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5CbGF6b3JcUGFyZW50Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/Pages/LyfeCycke.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTHlmZUN5Y2tlLnJhem9y
+[C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/Pages/LifeCycke.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlmZUN5Y2tlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/Shared/SurveyPrompt.razor]
