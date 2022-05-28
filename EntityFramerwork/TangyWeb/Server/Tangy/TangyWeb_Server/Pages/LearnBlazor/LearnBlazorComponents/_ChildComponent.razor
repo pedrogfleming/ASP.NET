@@ -1,4 +1,5 @@
-﻿<div>
+﻿@inject IJSRuntime _JSRuntime
+<div>
     <div class="alert alert-info">@Title</div>
     <div class="alert alert-success">
         @if (DangerChildContent is not null)
@@ -7,18 +8,18 @@
         }
         else
         {
-            @if(@ChildContent is not null)
+            @if (@ChildContent is not null)
             {
                 <span>@ChildContent</span>
             }
             else
             {
                 <span>Hello from empty render fragment</span>
-            }            
+            }
         }
     </div>
     <button class="btn btn-danger" @onclick="OnButtonClick">Button to be clicked</button>
-    <_GrandChildComponent ></_GrandChildComponent>
+    <_GrandChildComponent></_GrandChildComponent>
 </div>
 @code {
     [Parameter]
@@ -29,4 +30,9 @@
     public RenderFragment DangerChildContent { get; set; }
     [Parameter]
     public EventCallback OnButtonClick { get; set; }
+
+    public async Task ToastrSuccess()
+    {
+        await _JSRuntime.ToastrSuccess("Operation Successful");
+    }
 }

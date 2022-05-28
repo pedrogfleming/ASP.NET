@@ -1546,28 +1546,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pedro.fleming\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\pedro.fleming\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\GL\\.NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
+      "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
       "projectName": "TangyWeb_Client",
-      "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\GL\\.NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
+      "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
       "packagesPath": "C:\\Users\\pedro.fleming\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\GL\\.NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\",
+      "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\pedro.fleming\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

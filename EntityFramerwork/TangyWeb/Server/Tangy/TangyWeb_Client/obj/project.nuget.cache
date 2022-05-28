@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "glh2i8KwvmRqBfovs0K1XGLwsggbZ4cXTX+KiPSH/bKQ+CwrEm8eewG36er22JSwTzFUmKwo8zoG7caMhzXrfA==",
+  "dgSpecHash": "ombUI0XdiROPCOsNxQotGQlIYAHetMuxH19q7SELUIj0rnz2QsdgYRVPj32qIJ9TRH9aG8niyC4UVFMGEEI2xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro.fleming\\Desktop\\GL\\.NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
+  "projectFilePath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\microsoft.aspnetcore.components.6.0.5.nupkg.sha512",
