@@ -91,6 +91,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/Shared/_DeleteConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9EZWxldGVDb25maXJtYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/pedro.fleming/Desktop/ASP .NET/ASP.NET/EntityFramerwork/TangyWeb/Server/Tangy/TangyWeb_Server/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -813,6 +813,7 @@ C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\refint\TangyWeb_Client.dll
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.pdb
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\ref\TangyWeb_Client.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.5.ar0zc56qxs.js
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
@@ -1009,10 +1010,9 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\TangyWeb_Client.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\TangyWeb_Client.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
