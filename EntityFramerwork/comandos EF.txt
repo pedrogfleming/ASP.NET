@@ -1,0 +1,2 @@
+#Generar un script con todas las migraciones para ejecutar en SQL
+Script-Migration -From <PreviousMigration> -To <LastMigration> 

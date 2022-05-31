@@ -28,6 +28,14 @@ C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.pdb
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.genruntimeconfig.cache
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\ref\TangyWeb_Server.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.AssemblyReference.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.AssemblyInfoInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.AssemblyInfo.cs
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.CoreCompileInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.RazorAssemblyInfo.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.RazorAssemblyInfo.cs
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\appsettings.json
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\TangyWeb_Server.staticwebassets.runtime.json
@@ -78,14 +86,6 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Tangy_Business.pdb
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Tangy_DataAccess.pdb
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Tangy_Models.pdb
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.AssemblyReference.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.AssemblyInfoInputs.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.AssemblyInfo.cs
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.CoreCompileInputs.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.RazorAssemblyInfo.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.RazorAssemblyInfo.cs
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
@@ -98,3 +98,15 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.pdb
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.genruntimeconfig.cache
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\obj\Debug\net6.0\ref\TangyWeb_Server.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.RichTextEditor.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Licensing.dll
