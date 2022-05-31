@@ -110,3 +110,12 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\System.IO.Pipelines.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Khs9pFL+MGBOM/6xRdI/4eXoxvZLNMOTBL8o5oIKx9c=",
+  "Hash": "sShaqU/TtTLQ754C1Nq5n0bo5Mc8pAbR7kVIyFgYxZ0=",
   "Source": "TangyWeb_Server",
   "BasePath": "_content/TangyWeb_Server",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.js"
+    },
     {
       "Identity": "C:\\Users\\pedro.fleming\\.nuget\\packages\\syncfusion.blazor.core\\20.1.0.58\\staticwebassets\\scripts\\compression-637507.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
