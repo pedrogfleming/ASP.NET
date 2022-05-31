@@ -23,7 +23,7 @@ namespace Tangy_Business.Repository
         }
         public async Task<ProductDTO> Create(ProductDTO objDTO)
         {
-            var obj = _mapper.Map<ProductDTO, Product>(objDTO);            
+            var obj = _mapper.Map<ProductDTO, Product>(objDTO);
             ////Aggregate the category obj to the database
             var addedObj = _db.Products.Add(obj);
             //The save confirm the changes in the db, its obligatory to perform changes in db
@@ -44,7 +44,7 @@ namespace Tangy_Business.Repository
 
         public async Task<ProductDTO> Get(int id)
         {
-            var obj = await _db.Products.Include(p=>p.Category).FirstOrDefaultAsync(p => p.Id == id);
+            var obj = await _db.Products.Include(p => p.Category).FirstOrDefaultAsync(p => p.Id == id);
             if (obj is not null)
             {
                 return _mapper.Map<Product, ProductDTO>(obj);
@@ -77,5 +77,5 @@ namespace Tangy_Business.Repository
             return objDTO;
         }
     }
-    
+
 }
