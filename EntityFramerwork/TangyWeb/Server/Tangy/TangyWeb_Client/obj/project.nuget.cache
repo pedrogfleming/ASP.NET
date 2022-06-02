@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ombUI0XdiROPCOsNxQotGQlIYAHetMuxH19q7SELUIj0rnz2QsdgYRVPj32qIJ9TRH9aG8niyC4UVFMGEEI2xA==",
+  "dgSpecHash": "iwH9dcPIXNUsNzVjigtuoFVcBr+13+JGpPWB5USlLWiF169uVLqjfi0R84JUBUbTOrM21cF9eRWIcrIVdO5Qbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.jsinterop\\6.0.5\\microsoft.jsinterop.6.0.5.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.5\\microsoft.jsinterop.webassembly.6.0.5.nupkg.sha512",
+    "C:\\Users\\pedro.fleming\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

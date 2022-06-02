@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zS9/z7RR6SAgKKjEDY+v42G0VhjmXO7YzjzismTpp5U=",
+  "Hash": "agueqIuiG7GcF8zdYUNEthi/yVPtnqG/QgqIq19BSxs=",
   "Source": "TangyWeb_Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -6834,6 +6834,23 @@
       "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangyWeb_Client.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\appsettings.json",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
+    },
+    {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\css\\app.css",
       "SourceId": "TangyWeb_Client",
       "SourceType": "Discovered",
@@ -7087,6 +7104,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\js\\common.js",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/common.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\common.js"
     },
     {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\sample-data\\weather.json",
