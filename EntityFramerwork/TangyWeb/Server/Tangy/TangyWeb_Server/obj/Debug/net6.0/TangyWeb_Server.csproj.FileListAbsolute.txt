@@ -62,8 +62,11 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\MudBlazor.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Calendars.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Grids.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
@@ -72,7 +75,9 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
