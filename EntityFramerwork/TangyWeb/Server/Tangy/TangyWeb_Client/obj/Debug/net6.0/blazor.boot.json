@@ -202,7 +202,7 @@
       "System.Private.CoreLib.dll": "sha256-sfzSZ3YKC2rpF77TVOKLuPgQag93QXr9U4AUc9d\/LKA=",
       "Tangy_Common.dll": "sha256-W1OcwstIBwsWlLugS7bt8if+AE1mbiYos7AZT+F+Q84=",
       "Tangy_Models.dll": "sha256-YrCF5le2nvS47adfUJMraAJxYEE0rfgmUSmO6VtF75c=",
-      "TangyWeb_Client.dll": "sha256-U5Ozt+HkpDbkOybvF3Gd0k1KRrq7sDW5I28YoeKZmz0="
+      "TangyWeb_Client.dll": "sha256-3T8HOrx\/KHZF\/702jPfKDCvULsifQ5WlTRVWpg3EjN4="
     },
     "extensions": null,
     "lazyAssembly": null,
@@ -210,7 +210,7 @@
     "pdb": {
       "Tangy_Common.pdb": "sha256-RxmPBOEe38QpsZd1lPNAq3s4h7Q4MOOATDBKQaauTeo=",
       "Tangy_Models.pdb": "sha256-a0IORqE5ElOHFxAUbvt4lfNYHdvvbyODsGUHFkqUzdg=",
-      "TangyWeb_Client.pdb": "sha256-nYTqI3VzBEwgxhh6dbjhI6XHA4d21mZzwgAoFnCKjmA="
+      "TangyWeb_Client.pdb": "sha256-6RZLhm1Yl7907kv89DSij6RDfYgdO81DfK6Kxc7xJ3c="
     },
     "runtime": {
       "dotnet.6.0.5.ar0zc56qxs.js": "sha256-783uOt0jgblQfP6Yz5TJeuW2xxtl6UHZQPngZtCz79U=",
