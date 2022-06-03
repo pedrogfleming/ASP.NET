@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iwH9dcPIXNUsNzVjigtuoFVcBr+13+JGpPWB5USlLWiF169uVLqjfi0R84JUBUbTOrM21cF9eRWIcrIVdO5Qbw==",
+  "dgSpecHash": "TFiDHuRLVVhwz/pB2xZRa4iJ5cbP4LvLwBrEtq5DDTo2stmOZAHVFTK/Dh1Wd4oVyspax6QyeyO4Jmds+ZUVRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\TangyWeb_Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pedro.fleming\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\microsoft.aspnetcore.components.6.0.5.nupkg.sha512",
     "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.5\\microsoft.aspnetcore.components.analyzers.6.0.5.nupkg.sha512",

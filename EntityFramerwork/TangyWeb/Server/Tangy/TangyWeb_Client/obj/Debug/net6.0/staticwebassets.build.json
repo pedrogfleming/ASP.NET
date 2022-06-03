@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y9YkCNCPannQF45pUkMvAzRPZrwXxFylFIMCkqV5/Qk=",
+  "Hash": "50b2yFUdWLg8OjIdKhCJ8qfEEtn1dRqnQCjC0NVnL9g=",
   "Source": "TangyWeb_Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.5\\build\\net6.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\.nuget\\packages\\blazored.localstorage\\4.2.0\\lib\\net6.0\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.5.ar0zc56qxs.js",
@@ -3383,6 +3400,40 @@
       "OriginalItemSpec": "C:\\Users\\pedro.fleming\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\runtimes\\browser-wasm\\lib\\net6.0\\System.Xml.XPath.XDocument.dll"
     },
     {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.dll",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\bin\\Debug\\net6.0\\Tangy_Common.dll"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.pdb",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\bin\\Debug\\net6.0\\Tangy_Common.pdb"
+    },
+    {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Models.dll",
       "SourceId": "TangyWeb_Client",
       "SourceType": "Computed",
@@ -5083,6 +5134,23 @@
       "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Uri.dll"
     },
     {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\h2TFQK21.gz",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
+    },
+    {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\hDKZrPKz.gz",
       "SourceId": "TangyWeb_Client",
       "SourceType": "Computed",
@@ -5712,6 +5780,23 @@
       "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\OAXyoJkx.gz",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.pdb"
+    },
+    {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\oGbnHsLv.gz",
       "SourceId": "TangyWeb_Client",
       "SourceType": "Computed",
@@ -5863,6 +5948,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.DataContractSerialization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\piIPdLeW.gz",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.dll"
     },
     {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\pK1zTnNO.gz",

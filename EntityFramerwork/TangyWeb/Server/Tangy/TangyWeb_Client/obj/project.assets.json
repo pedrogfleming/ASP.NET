@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Blazored.LocalStorage/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Blazored.LocalStorage.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Blazored.LocalStorage.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/6.0.5": {
         "type": "package",
         "dependencies": {
@@ -400,6 +412,16 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "Tangy_Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tangy_Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tangy_Common.dll": {}
+        }
+      },
       "Tangy_Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -412,6 +434,18 @@
       }
     },
     "net6.0/browser-wasm": {
+      "Blazored.LocalStorage/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Blazored.LocalStorage.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Blazored.LocalStorage.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/6.0.5": {
         "type": "package",
         "dependencies": {
@@ -804,6 +838,16 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "Tangy_Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tangy_Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tangy_Common.dll": {}
+        }
+      },
       "Tangy_Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -817,6 +861,21 @@
     }
   },
   "libraries": {
+    "Blazored.LocalStorage/4.2.0": {
+      "sha512": "cn6h0QrLw0AIwkx/LiogtBycBFHIeqT/ptXIt871/07qTCvIGXCQZpc1s38wpmTfYLvpha5+5yn6TvIaY9ziyg==",
+      "type": "package",
+      "path": "blazored.localstorage/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazored.localstorage.4.2.0.nupkg.sha512",
+        "blazored.localstorage.nuspec",
+        "icon.png",
+        "lib/net5.0/Blazored.LocalStorage.dll",
+        "lib/net6.0/Blazored.LocalStorage.dll",
+        "lib/netstandard2.1/Blazored.LocalStorage.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/6.0.5": {
       "sha512": "T3J4Z4xK/mmJlMv/j7Cs1PZjRLh1fGsvHay3RNBNooP0qhHCk3UnU+WgBvcGApZFnEfeyOEGZBHZv5gb1RrDLA==",
       "type": "package",
@@ -1603,6 +1662,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Tangy_Common/1.0.0": {
+      "type": "project",
+      "path": "../Tangy_Common/Tangy_Common.csproj",
+      "msbuildProject": "../Tangy_Common/Tangy_Common.csproj"
+    },
     "Tangy_Models/1.0.0": {
       "type": "project",
       "path": "../Tangy_Models/Tangy_Models.csproj",
@@ -1611,9 +1675,11 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Blazored.LocalStorage >= 4.2.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.5",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.5",
       "Newtonsoft.Json >= 13.0.1",
+      "Tangy_Common >= 1.0.0",
       "Tangy_Models >= 1.0.0"
     ]
   },
@@ -1644,6 +1710,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj": {
+              "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj"
+            },
             "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\Tangy_Models.csproj": {
               "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\Tangy_Models.csproj"
             }
@@ -1660,6 +1729,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Blazored.LocalStorage": {
+            "target": "Package",
+            "version": "[4.2.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
             "version": "[6.0.5, )"
