@@ -1628,3 +1628,15 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\refint\TangyWeb_Client.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.pdb
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\ref\TangyWeb_Client.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Models.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Models.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Models.dll.gz
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Models.pdb.gz
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\Tangy_Models.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\Tangy_Models.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\ATF16bQ2.gz
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\DcZWa+o4.gz
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\Fw3qGNeO.gz
