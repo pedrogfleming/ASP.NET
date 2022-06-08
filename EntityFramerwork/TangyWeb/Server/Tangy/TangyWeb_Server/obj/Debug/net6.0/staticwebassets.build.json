@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uEFXi/ax7DRvLLRiMmA3/cM053mbyTZnBrLBsRY7nMQ=",
+  "Hash": "9v012hEL7kKhrtTzhuLUk1/xqYwkZLcGejN3V/qJd9U=",
   "Source": "TangyWeb_Server",
   "BasePath": "_content/TangyWeb_Server",
   "Mode": "Default",
@@ -1360,6 +1360,23 @@
       "OriginalItemSpec": "wwwroot\\images\\loading.gif"
     },
     {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Server\\wwwroot\\images\\product\\16bc737b-b9ab-46ab-96ec-ae0d1c3fbcde.jpg",
+      "SourceId": "TangyWeb_Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Server\\wwwroot\\",
+      "BasePath": "_content/TangyWeb_Server",
+      "RelativePath": "images/product/16bc737b-b9ab-46ab-96ec-ae0d1c3fbcde.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\16bc737b-b9ab-46ab-96ec-ae0d1c3fbcde.jpg"
+    },
+    {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Server\\wwwroot\\images\\product\\1bb5ed4a-0179-4ce7-9eca-40d99479ee11.jpg",
       "SourceId": "TangyWeb_Server",
       "SourceType": "Discovered",
@@ -1477,6 +1494,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\abcc5bc0-2783-460e-a072-b410d37dda3e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Server\\wwwroot\\images\\product\\dab87c9e-c4de-46c6-899f-ddb38dc55c6a.jpg",
+      "SourceId": "TangyWeb_Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Server\\wwwroot\\",
+      "BasePath": "_content/TangyWeb_Server",
+      "RelativePath": "images/product/dab87c9e-c4de-46c6-899f-ddb38dc55c6a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\dab87c9e-c4de-46c6-899f-ddb38dc55c6a.jpg"
     },
     {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Server\\wwwroot\\images\\product\\dc9b51f1-4b2e-4eac-8e0b-63fd9bc69d31.jpg",

@@ -12,5 +12,26 @@ namespace Tangy_Common
     public static class SD
     {
         public const string ShoppingCart = "ShoppingCart";
+
+        /// <summary>
+        /// Order First status 
+        /// </summary>
+        public const string Status_Pending = "Pending";
+        /// <summary>
+        /// Order Second status when its confirmed
+        /// </summary>
+        public const string Status_Confirmed = "Confirmed";
+        /// <summary>
+        /// Order Third status when the shipment its done
+        /// </summary>
+        public const string Status_Shipped = "Shipped";
+        /// <summary>
+        /// When the order its refunded
+        /// </summary>
+        public const string Status_Refunded = "Refunded";
+        /// <summary>
+        /// When the order is cancelled
+        /// </summary>
+        public const string Status_Cancelled = "Cancelled";
     }
 }
