@@ -33,5 +33,10 @@ namespace Tangy_Common
         /// When the order is cancelled
         /// </summary>
         public const string Status_Cancelled = "Cancelled";
+
+        #region Roles
+        public const string Role_Admin = "Admin";
+        public const string Role_Customer = "Customer";
+        #endregion
     }
 }
