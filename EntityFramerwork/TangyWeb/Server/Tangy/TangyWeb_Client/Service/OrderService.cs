@@ -4,6 +4,9 @@ using TangyWeb_Client.Service.IService;
 
 namespace TangyWeb_Client.Service
 {
+    /// <summary>
+    /// Implementa
+    /// </summary>
     public class OrderService : IOrderService
     {
         private readonly HttpClient _httpClient;
