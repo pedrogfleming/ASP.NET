@@ -12,6 +12,7 @@
       "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-ThsHz1KsYfsXW9VgMdflnhR6Na8ZrPnzhWrKZkjl6XE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-ramVDoksT5qhSqsyvuf70+Xk6LzKiCAjtzl9xVwIdV4=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-2Z5WfTe4x24Bj\/ugF6Ij5NIVDpuBp42X5t5XIlL2cE8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-zqsvvyL\/zGYEvF\/crCJ8Dt1fpz7KA7V0WEJBp\/9\/Z3w=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-sS1yMtnuQwl7ojhNaD0R8ObmmKTreSfkFAatoIeOKPw=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-ff+PbIVunuYwtTBsmbmdSZ\/VpZrr7Jwh3MzQDeFTNQ8=",
@@ -200,17 +201,17 @@
       "mscorlib.dll": "sha256-ghlJNtzzYlKIliGPuf0A0Yu6dmLycSx3F9uyeddFb\/g=",
       "netstandard.dll": "sha256-qpOz\/RBwhlIYfaE2GDEmjiproxkvSf2b9GeqHxvH+lg=",
       "System.Private.CoreLib.dll": "sha256-sfzSZ3YKC2rpF77TVOKLuPgQag93QXr9U4AUc9d\/LKA=",
-      "Tangy_Common.dll": "sha256-mdYKvwcut6i78a5W4Ms90\/zhYZdSYI9a\/mh7woTBHe8=",
-      "Tangy_Models.dll": "sha256-MWPKSOpBmEfMrzNRDyp0HGHWGJjY5XnlQmYXAINkX2Q=",
-      "TangyWeb_Client.dll": "sha256-5zzS53n\/3QS\/bR8B2L963qgSqj7MFAye37ycV+RuoUA="
+      "Tangy_Common.dll": "sha256-uRNl\/LaX9CKe+C4vJhUQwK9prBm366LjlecpEoVK\/vs=",
+      "Tangy_Models.dll": "sha256-wUrkRlk\/qhQ2rLnVNV2J0m247HAV4nyE394ZwVK1HJY=",
+      "TangyWeb_Client.dll": "sha256-+kHivwBDwf\/GjnEvAZq47TdqIDUj2d3SlnnR1pj9qWQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Tangy_Common.pdb": "sha256-d5zJuk1S58h5rmLFX33Kvw4sxjakKGfnj8hM7JNVwRc=",
-      "Tangy_Models.pdb": "sha256-tPU2p+RTRJ8ZZB75lOEy2z2TYFqkXo0SsdHzSkYhEkQ=",
-      "TangyWeb_Client.pdb": "sha256-P+V5w2dMKtQIOA8XIvMczqX3kM2a2fXw90+IQngGX6Y="
+      "Tangy_Common.pdb": "sha256-OKN57BDn1jGcI1DFuYoZmzC\/gHjSM4E1xayvolmWpmg=",
+      "Tangy_Models.pdb": "sha256-h18h+XMzKMIbcM3ZwlwGTWt63389kZ4VG+BMxWSV2s0=",
+      "TangyWeb_Client.pdb": "sha256-fdpCYgDJuPOZevqEJEksVCQXQlfTHGsgJhLNM\/ztbZc="
     },
     "runtime": {
       "dotnet.6.0.5.ar0zc56qxs.js": "sha256-783uOt0jgblQfP6Yz5TJeuW2xxtl6UHZQPngZtCz79U=",
