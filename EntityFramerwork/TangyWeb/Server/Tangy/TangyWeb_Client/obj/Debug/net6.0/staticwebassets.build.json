@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DQhj/g2EJyW0bV3j6Pb7z8z7xc5MHw2TLIPe8TkfLvU=",
+  "Hash": "7JeYrsXuLpJtAkhgPKs9VtXsZpef5LfWUkgww3uhTh4=",
   "Source": "TangyWeb_Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7427,6 +7427,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\common.js"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\js\\stripePayment.js",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/stripePayment.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\stripePayment.js"
     },
     {
       "Identity": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\wwwroot\\sample-data\\weather.json",

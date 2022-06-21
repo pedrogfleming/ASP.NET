@@ -2,6 +2,8 @@
 @inject ILocalStorageService _localStorage
 @inject IProductService _productService
 @inject IJSRuntime _jsRuntime
+@inject IOrderService _orderService
+@inject IPaymentService _paymentService
 @attribute [Authorize]
 @if (IsProcessing)
 {
@@ -136,7 +138,7 @@ else
                     Product = product
                 };
             Order.OrderDetails.Add(orderDetailDTO);
-            Order.OrderHeader.OrderTotal += (cart.Count * productPrice.Price);
+            Order.OrderHeader.OrderTotal += (item.Count * productPrice.Price);
         }
         if (await _localStorage.GetItemAsync<UserDTO>(SD.Local_UserDetails) is not null)
         {
@@ -150,6 +152,30 @@ else
     }
     private async Task HandleCheckOut()
     {
+        try
+        {
+            IsProcessing = true;
+            var paymentDTO = new StripePaymentDTO()
+                {
+                    Order = Order
+                };
+            var result = await _paymentService.Checkout(paymentDTO);
 
+            Order.OrderHeader.SessionId = result.Data.ToString();
+
+            var orderDTOSaved = await _orderService.Create(paymentDTO);
+
+            //After created the payment, we use the local store to keep the order details
+            //So we can update the status of that order
+            await _localStorage.SetItemAsync(SD.Local_OrderDetails, orderDTOSaved);
+
+            await _jsRuntime.InvokeVoidAsync("redirectToCheckout", result.Data.ToString());
+            IsProcessing = false;
+        }
+        catch (Exception e)
+        {
+
+            await _jsRuntime.ToastrError(e.Message);
+        }
     }
 }

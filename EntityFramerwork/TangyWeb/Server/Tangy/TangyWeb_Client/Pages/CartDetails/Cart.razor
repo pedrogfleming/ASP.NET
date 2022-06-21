@@ -111,6 +111,10 @@ else
     {
         OrderTotal = 0;
         ShoppingCart = await _localStorage.GetItemAsync<List<ShoppingCart>>(SD.ShoppingCart);
+        if(ShoppingCart is null)
+        {
+            ShoppingCart = new List<ShoppingCart>();
+        }
         foreach (var cart in ShoppingCart)
         {
             cart.Product = Products.FirstOrDefault(u => u.Id == cart.ProductId);

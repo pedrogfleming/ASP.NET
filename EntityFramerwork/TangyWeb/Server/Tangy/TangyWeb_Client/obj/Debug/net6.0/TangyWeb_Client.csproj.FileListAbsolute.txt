@@ -813,12 +813,6 @@ C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\refint\TangyWeb_Client.dll
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.pdb
 C:\Users\pedro.fleming\Desktop\GL\.NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\ref\TangyWeb_Client.dll
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.csproj.AssemblyReference.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.AssemblyInfoInputs.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.AssemblyInfo.cs
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.csproj.CoreCompileInputs.cache
-C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
@@ -1438,6 +1432,12 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\Tangy_Models.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\Tangy_Common.pdb
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\bin\Debug\net6.0\Tangy_Models.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.csproj.AssemblyReference.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.AssemblyInfoInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.AssemblyInfo.cs
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.csproj.CoreCompileInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\h2TFQK21.gz
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\exabIG1u.gz
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\goCQERkG.gz

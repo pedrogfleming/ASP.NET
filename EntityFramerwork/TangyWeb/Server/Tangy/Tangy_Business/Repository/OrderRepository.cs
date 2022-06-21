@@ -109,7 +109,7 @@ namespace Tangy_Business.Repository
             }
             if (data.Status == SD.Status_Pending)
             {
-                data.State = SD.Status_Confirmed;
+                data.Status = SD.Status_Confirmed;
                 await _db.SaveChangesAsync();
                 return _mapper.Map<OrderHeader, OrderHeaderDTO>(data);
             }
