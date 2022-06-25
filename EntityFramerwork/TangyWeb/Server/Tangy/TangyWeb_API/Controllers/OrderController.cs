@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Stripe.Checkout;
 using Tangy_Business.Repository.IRepository;
@@ -15,10 +16,12 @@ namespace TangyWeb_API.Controllers
     public class OrderController : ControllerBase
     {
         private readonly IOrderRepository _orderRepository;
+        private readonly IEmailSender _emailSender;
 
-        public OrderController(IOrderRepository orderRepository)
+        public OrderController(IOrderRepository orderRepository, IEmailSender emailSender)
         {
             _orderRepository = orderRepository;
+            _emailSender = emailSender;
         }
         [HttpGet]
         public async Task<IActionResult> GetAll()
@@ -63,6 +66,8 @@ namespace TangyWeb_API.Controllers
             if(sessionDetails.PaymentStatus == "paid")
             {
                 var result = await _orderRepository.MarkPaymentSuccessful(orderHeaderDTO.Id);
+                await _emailSender.SendEmailAsync("pedrogfleming@gmail.com", "Tangy Order Confirmation",
+                    "New Order has been created :" + orderHeaderDTO.Id);
                 if(result == null)
                 {
                     return BadRequest(new ErrorModelDTO()
