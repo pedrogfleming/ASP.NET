@@ -39,7 +39,7 @@ namespace Tangy_DataAccess
         [Required]
         public string PhoneNumber { get; set; }
         [Required]
-        public string StreetAdress { get; set; }
+        public string StreetAddress { get; set; }
         [Required]
         public string State { get; set; }
         [Required]
@@ -49,6 +49,7 @@ namespace Tangy_DataAccess
         [Required]
         public string Email { get; set; }
         #endregion
-
+        public string? Tracking { get; set; }
+        public string? Carrier { get; set; }
     }
 }

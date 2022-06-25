@@ -55,7 +55,7 @@ namespace TangyWeb_API.Controllers
                 //We retrieve the session id so we can stored in the order header
                 return Ok(new SuccessModelDTO()
                 {
-                    Data = session.Id
+                    Data = session.Id+";"+session.PaymentIntentId
                 });
             }
             catch (Exception ex)

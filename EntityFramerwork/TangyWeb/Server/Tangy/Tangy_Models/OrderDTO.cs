@@ -11,4 +11,4 @@ namespace Tangy_Models
         public OrderHeaderDTO OrderHeader { get; set; }
         public List<OrderDetailDTO> OrderDetails { get; set; }
     }
-}
+} 

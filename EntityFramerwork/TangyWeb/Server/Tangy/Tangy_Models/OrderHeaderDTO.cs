@@ -42,18 +42,20 @@ namespace Tangy_Models
         public string PhoneNumber { get; set; }
         [Required]
         [Display(Name = "Street Address")]
-        public string StreetAdress { get; set; }
+        public string StreetAddress { get; set; }
         [Required]
         public string State { get; set; }
         [Required]
         public string City { get; set; }
         [Required]
-        [Display(Name = "Posta Code")]
+        [Display(Name = "Postal Code")]
         public string PostalCode { get; set; }
         [Display(Name = "Email")]
         [Required]
         public string Email { get; set; }
         #endregion
+        public string? Tracking { get; set; }
+        public string? Carrier { get; set; }
 
     }
 }
