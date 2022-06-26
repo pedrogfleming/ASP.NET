@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using Microsoft.AspNetCore.Cors;
+using Newtonsoft.Json;
 using System.Text;
 using Tangy_Models;
 using TangyWeb_Client.Service.IService;
@@ -21,6 +22,7 @@ namespace TangyWeb_Client.Service
             BaseServerUrl = _configuration.GetSection("BaseServerUrl").Value;
         }
 
+        [EnableCors("Tangy")]
         public async Task<OrderDTO> Create(StripePaymentDTO paymentDTO)
         {
             var content = JsonConvert.SerializeObject(paymentDTO);

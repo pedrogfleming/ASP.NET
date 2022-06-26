@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Stripe.Checkout;
 using Tangy_Models;
@@ -6,7 +7,8 @@ using Tangy_Models;
 namespace TangyWeb_API.Controllers
 {
 
-    [Route("api/[controller]/[action]")]
+    [Route("api/[controller]/[action]")]    
+    [ApiController]
     public class StripePaymentController : Controller
     {
         private readonly IConfiguration _configuration;
@@ -17,7 +19,7 @@ namespace TangyWeb_API.Controllers
         }
 
         [HttpPost]
-        [Authorize]
+        //[Authorize]
         [ActionName("Create")]
         public async Task<IActionResult> Create([FromBody] StripePaymentDTO paymentDTO)
         {

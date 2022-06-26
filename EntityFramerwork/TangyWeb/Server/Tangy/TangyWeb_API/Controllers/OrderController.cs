@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Stripe.Checkout;
@@ -55,7 +56,7 @@ namespace TangyWeb_API.Controllers
         public async Task<IActionResult> Create([FromBody] StripePaymentDTO paymentDTO)
         {
             var result = await _orderRepository.Create(paymentDTO.Order);
-            return Ok(result);
+            return Ok(result);   
         }
         [HttpPost]
         [ActionName("paymentsuccessful")]
@@ -66,7 +67,7 @@ namespace TangyWeb_API.Controllers
             if(sessionDetails.PaymentStatus == "paid")
             {
                 var result = await _orderRepository.MarkPaymentSuccessful(orderHeaderDTO.Id);
-                await _emailSender.SendEmailAsync("pedrogfleming@gmail.com", "Tangy Order Confirmation",
+                await _emailSender.SendEmailAsync(orderHeaderDTO.Email, "Tangy Order Confirmation",
                     "New Order has been created :" + orderHeaderDTO.Id);
                 if(result == null)
                 {

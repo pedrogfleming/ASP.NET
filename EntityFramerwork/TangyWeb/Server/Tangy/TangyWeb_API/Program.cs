@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +11,9 @@ using Tangy_Business.Repository.IRepository;
 using Tangy_DataAccess;
 using Tangy_DataAccess.Data;
 using TangyWeb_API.Helper;
+
+string _MyCors = "Tangy";
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -84,8 +87,10 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IEmailSender, EmailSender>();
 //builder.Services.AddScoped<IProductPriceRepository, ProductPriceRepository>();
-builder.Services.AddCors(o => o.AddPolicy("Tangy", builder =>
+builder.Services.AddCors(o => o.AddPolicy(name: _MyCors, builder =>
 {
+    //builder.WithOrigins("https://tangywebclient01.azurewebsites.net/")
+    //builder.AllowAnyOrigin(origin => new Uri(origin).Host == "https://tangywebclient01.azurewebsites.net/")
     builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
 }));
 
@@ -94,14 +99,20 @@ var app = builder.Build();
 StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe")["ApiKey"];
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+//if (app.Environment.IsDevelopment())
+//{
+    
+//}
+
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Tangy Blazor API v1");
+    c.RoutePrefix = String.Empty;
+});
 
 app.UseHttpsRedirection();
-app.UseCors("Tangy");
+app.UseCors(_MyCors);
 app.UseRouting();
 //Always use Authentication before Authorization in the pipeline or it will dont work
 app.UseAuthentication();
